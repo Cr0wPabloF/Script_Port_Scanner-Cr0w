@@ -12,7 +12,7 @@ Description: Script to be used for scanning and identifying ports from an IP, de
 To be used on Linux OS, the command in the directory located the file .py: python3 script.py + target IP must be used.
 Ex: python3 script.py 0.0.0.0
 ---
-Autor: Pablo Ferreira ~ Deep Doctor
-Data: Mar 2021
-https://github.com/DeepDoctor
+Autor: Pablo Ferreira ~ Cr0w
+Data: Jan 2022
+https://github.com/Cr0wPabloF
 http://www.linkedin.com/in/pablofsousa0706/
